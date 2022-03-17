@@ -1,7 +1,7 @@
 const affirmations = [
   "Você consegue!",
   "Você vai descobrir",
-  "Você é um biscoito inteligente! (inteligente tem boas ideias)",
+  "Você é um biscoito inteligente! (inteligente e tem boas ideias)",
   "Eu acredito em você!",
   "Sugar algo é o primeiro passo para ser bom em algo",
   "Lutar faz parte do aprendizado",
@@ -28,7 +28,7 @@ const affirmations = [
   "Você é uma inspiração",
   "Sua vida já é um milagre do acaso esperando por você para moldar seu destino",
   "Sua vida está prestes a ser incrível",
-  "Nada é impossível. A própria palavra diz 'Eu sou possível!' (I'm-possible)",
+  "Nada é impossível. A própria palavra diz 'Eu sou possível!' (Impossible / I'm-possible)",
   "O fracasso é apenas outra maneira de aprender a fazer algo certo",
   "Eu me dou permissão para fazer o que é certo para mim",
   "Você consegue",
